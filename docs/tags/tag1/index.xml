@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>tag1 on My hugo site</title>
-    <link>https://hdlahdl.github.io/hdlBolg/tags/tag1/</link>
+    <link>https://hdlahdl.github.io/hdlBlog/tags/tag1/</link>
     <description>Recent content in tag1 on My hugo site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 12 Jun 2020 14:36:06 +0800</lastBuildDate>
     
-	<atom:link href="https://hdlahdl.github.io/hdlBolg/tags/tag1/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://hdlahdl.github.io/hdlBlog/tags/tag1/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>First_blog</title>
-      <link>https://hdlahdl.github.io/hdlBolg/2020/06/first_blog/</link>
+      <link>https://hdlahdl.github.io/hdlBlog/2020/06/first_blog/</link>
       <pubDate>Fri, 12 Jun 2020 14:36:06 +0800</pubDate>
       
-      <guid>https://hdlahdl.github.io/hdlBolg/2020/06/first_blog/</guid>
+      <guid>https://hdlahdl.github.io/hdlBlog/2020/06/first_blog/</guid>
       <description>&lt;h2 id=&#34;大家好&#34;&gt;大家好&lt;/h2&gt;
 &lt;p&gt;这是我的博客，希望能写一些好的文章分享给大家~~~&lt;/p&gt;</description>
     </item>

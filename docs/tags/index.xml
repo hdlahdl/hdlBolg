@@ -2,228 +2,228 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on My hugo site</title>
-    <link>https://hdlahdl.github.io/hdlBolg/tags/</link>
+    <link>https://hdlahdl.github.io/hdlBlog/tags/</link>
     <description>Recent content in Tags on My hugo site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 12 Jun 2020 14:36:06 +0800</lastBuildDate>
     
-	<atom:link href="https://hdlahdl.github.io/hdlBolg/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://hdlahdl.github.io/hdlBlog/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>tag1</title>
-      <link>https://hdlahdl.github.io/hdlBolg/tags/tag1/</link>
+      <link>https://hdlahdl.github.io/hdlBlog/tags/tag1/</link>
       <pubDate>Fri, 12 Jun 2020 14:36:06 +0800</pubDate>
       
-      <guid>https://hdlahdl.github.io/hdlBolg/tags/tag1/</guid>
+      <guid>https://hdlahdl.github.io/hdlBlog/tags/tag1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>tag2</title>
-      <link>https://hdlahdl.github.io/hdlBolg/tags/tag2/</link>
+      <link>https://hdlahdl.github.io/hdlBlog/tags/tag2/</link>
       <pubDate>Fri, 12 Jun 2020 14:36:06 +0800</pubDate>
       
-      <guid>https://hdlahdl.github.io/hdlBolg/tags/tag2/</guid>
+      <guid>https://hdlahdl.github.io/hdlBlog/tags/tag2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>disqus</title>
-      <link>https://hdlahdl.github.io/hdlBolg/tags/disqus/</link>
+      <link>https://hdlahdl.github.io/hdlBlog/tags/disqus/</link>
       <pubDate>Mon, 15 Jun 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://hdlahdl.github.io/hdlBolg/tags/disqus/</guid>
+      <guid>https://hdlahdl.github.io/hdlBlog/tags/disqus/</guid>
       <description></description>
     </item>
     
     <item>
       <title>google analytics</title>
-      <link>https://hdlahdl.github.io/hdlBolg/tags/google-analytics/</link>
+      <link>https://hdlahdl.github.io/hdlBlog/tags/google-analytics/</link>
       <pubDate>Mon, 15 Jun 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://hdlahdl.github.io/hdlBolg/tags/google-analytics/</guid>
+      <guid>https://hdlahdl.github.io/hdlBlog/tags/google-analytics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>gravatar</title>
-      <link>https://hdlahdl.github.io/hdlBolg/tags/gravatar/</link>
+      <link>https://hdlahdl.github.io/hdlBlog/tags/gravatar/</link>
       <pubDate>Mon, 15 Jun 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://hdlahdl.github.io/hdlBolg/tags/gravatar/</guid>
+      <guid>https://hdlahdl.github.io/hdlBlog/tags/gravatar/</guid>
       <description></description>
     </item>
     
     <item>
       <title>hexo theme</title>
-      <link>https://hdlahdl.github.io/hdlBolg/tags/hexo-theme/</link>
+      <link>https://hdlahdl.github.io/hdlBlog/tags/hexo-theme/</link>
       <pubDate>Mon, 15 Jun 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://hdlahdl.github.io/hdlBolg/tags/hexo-theme/</guid>
+      <guid>https://hdlahdl.github.io/hdlBlog/tags/hexo-theme/</guid>
       <description></description>
     </item>
     
     <item>
       <title>responsive</title>
-      <link>https://hdlahdl.github.io/hdlBolg/tags/responsive/</link>
+      <link>https://hdlahdl.github.io/hdlBlog/tags/responsive/</link>
       <pubDate>Mon, 15 Jun 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://hdlahdl.github.io/hdlBolg/tags/responsive/</guid>
+      <guid>https://hdlahdl.github.io/hdlBlog/tags/responsive/</guid>
       <description></description>
     </item>
     
     <item>
       <title>html elements</title>
-      <link>https://hdlahdl.github.io/hdlBolg/tags/html-elements/</link>
+      <link>https://hdlahdl.github.io/hdlBlog/tags/html-elements/</link>
       <pubDate>Thu, 28 May 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://hdlahdl.github.io/hdlBolg/tags/html-elements/</guid>
+      <guid>https://hdlahdl.github.io/hdlBlog/tags/html-elements/</guid>
       <description></description>
     </item>
     
     <item>
       <title>markdown</title>
-      <link>https://hdlahdl.github.io/hdlBolg/tags/markdown/</link>
+      <link>https://hdlahdl.github.io/hdlBlog/tags/markdown/</link>
       <pubDate>Thu, 28 May 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://hdlahdl.github.io/hdlBolg/tags/markdown/</guid>
+      <guid>https://hdlahdl.github.io/hdlBlog/tags/markdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>cover image</title>
-      <link>https://hdlahdl.github.io/hdlBolg/tags/cover-image/</link>
+      <link>https://hdlahdl.github.io/hdlBlog/tags/cover-image/</link>
       <pubDate>Wed, 13 May 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://hdlahdl.github.io/hdlBolg/tags/cover-image/</guid>
+      <guid>https://hdlahdl.github.io/hdlBlog/tags/cover-image/</guid>
       <description></description>
     </item>
     
     <item>
       <title>github theme</title>
-      <link>https://hdlahdl.github.io/hdlBolg/tags/github-theme/</link>
+      <link>https://hdlahdl.github.io/hdlBlog/tags/github-theme/</link>
       <pubDate>Mon, 23 Mar 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://hdlahdl.github.io/hdlBolg/tags/github-theme/</guid>
+      <guid>https://hdlahdl.github.io/hdlBlog/tags/github-theme/</guid>
       <description></description>
     </item>
     
     <item>
       <title>highlight code</title>
-      <link>https://hdlahdl.github.io/hdlBolg/tags/highlight-code/</link>
+      <link>https://hdlahdl.github.io/hdlBlog/tags/highlight-code/</link>
       <pubDate>Mon, 23 Mar 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://hdlahdl.github.io/hdlBolg/tags/highlight-code/</guid>
+      <guid>https://hdlahdl.github.io/hdlBlog/tags/highlight-code/</guid>
       <description></description>
     </item>
     
     <item>
       <title>test</title>
-      <link>https://hdlahdl.github.io/hdlBolg/tags/test/</link>
+      <link>https://hdlahdl.github.io/hdlBlog/tags/test/</link>
       <pubDate>Mon, 23 Mar 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://hdlahdl.github.io/hdlBolg/tags/test/</guid>
+      <guid>https://hdlahdl.github.io/hdlBlog/tags/test/</guid>
       <description></description>
     </item>
     
     <item>
       <title>tag plugins</title>
-      <link>https://hdlahdl.github.io/hdlBolg/tags/tag-plugins/</link>
+      <link>https://hdlahdl.github.io/hdlBlog/tags/tag-plugins/</link>
       <pubDate>Wed, 29 Oct 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://hdlahdl.github.io/hdlBolg/tags/tag-plugins/</guid>
+      <guid>https://hdlahdl.github.io/hdlBlog/tags/tag-plugins/</guid>
       <description></description>
     </item>
     
     <item>
       <title>social</title>
-      <link>https://hdlahdl.github.io/hdlBolg/tags/social/</link>
+      <link>https://hdlahdl.github.io/hdlBlog/tags/social/</link>
       <pubDate>Sun, 17 Aug 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://hdlahdl.github.io/hdlBolg/tags/social/</guid>
+      <guid>https://hdlahdl.github.io/hdlBlog/tags/social/</guid>
       <description></description>
     </item>
     
     <item>
       <title>tags</title>
-      <link>https://hdlahdl.github.io/hdlBolg/tags/tags/</link>
+      <link>https://hdlahdl.github.io/hdlBlog/tags/tags/</link>
       <pubDate>Sat, 16 Aug 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://hdlahdl.github.io/hdlBolg/tags/tags/</guid>
+      <guid>https://hdlahdl.github.io/hdlBlog/tags/tags/</guid>
       <description></description>
     </item>
     
     <item>
       <title>pagination</title>
-      <link>https://hdlahdl.github.io/hdlBolg/tags/pagination/</link>
+      <link>https://hdlahdl.github.io/hdlBlog/tags/pagination/</link>
       <pubDate>Fri, 15 Aug 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://hdlahdl.github.io/hdlBolg/tags/pagination/</guid>
+      <guid>https://hdlahdl.github.io/hdlBlog/tags/pagination/</guid>
       <description></description>
     </item>
     
     <item>
       <title>dailymotion</title>
-      <link>https://hdlahdl.github.io/hdlBolg/tags/dailymotion/</link>
+      <link>https://hdlahdl.github.io/hdlBlog/tags/dailymotion/</link>
       <pubDate>Sat, 09 Aug 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://hdlahdl.github.io/hdlBolg/tags/dailymotion/</guid>
+      <guid>https://hdlahdl.github.io/hdlBlog/tags/dailymotion/</guid>
       <description></description>
     </item>
     
     <item>
       <title>videos integration</title>
-      <link>https://hdlahdl.github.io/hdlBolg/tags/videos-integration/</link>
+      <link>https://hdlahdl.github.io/hdlBlog/tags/videos-integration/</link>
       <pubDate>Sat, 09 Aug 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://hdlahdl.github.io/hdlBolg/tags/videos-integration/</guid>
+      <guid>https://hdlahdl.github.io/hdlBlog/tags/videos-integration/</guid>
       <description></description>
     </item>
     
     <item>
       <title>vimeo</title>
-      <link>https://hdlahdl.github.io/hdlBolg/tags/vimeo/</link>
+      <link>https://hdlahdl.github.io/hdlBlog/tags/vimeo/</link>
       <pubDate>Sat, 09 Aug 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://hdlahdl.github.io/hdlBolg/tags/vimeo/</guid>
+      <guid>https://hdlahdl.github.io/hdlBlog/tags/vimeo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>youtube</title>
-      <link>https://hdlahdl.github.io/hdlBolg/tags/youtube/</link>
+      <link>https://hdlahdl.github.io/hdlBlog/tags/youtube/</link>
       <pubDate>Sat, 09 Aug 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://hdlahdl.github.io/hdlBolg/tags/youtube/</guid>
+      <guid>https://hdlahdl.github.io/hdlBlog/tags/youtube/</guid>
       <description></description>
     </item>
     
     <item>
       <title>chinese</title>
-      <link>https://hdlahdl.github.io/hdlBolg/tags/chinese/</link>
+      <link>https://hdlahdl.github.io/hdlBlog/tags/chinese/</link>
       <pubDate>Wed, 02 Oct 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://hdlahdl.github.io/hdlBolg/tags/chinese/</guid>
+      <guid>https://hdlahdl.github.io/hdlBlog/tags/chinese/</guid>
       <description></description>
     </item>
     
     <item>
       <title>image gallery</title>
-      <link>https://hdlahdl.github.io/hdlBolg/tags/image-gallery/</link>
+      <link>https://hdlahdl.github.io/hdlBlog/tags/image-gallery/</link>
       <pubDate>Mon, 18 Feb 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://hdlahdl.github.io/hdlBolg/tags/image-gallery/</guid>
+      <guid>https://hdlahdl.github.io/hdlBlog/tags/image-gallery/</guid>
       <description></description>
     </item>
     
     <item>
       <title>japanese</title>
-      <link>https://hdlahdl.github.io/hdlBolg/tags/japanese/</link>
+      <link>https://hdlahdl.github.io/hdlBlog/tags/japanese/</link>
       <pubDate>Wed, 02 Jan 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://hdlahdl.github.io/hdlBolg/tags/japanese/</guid>
+      <guid>https://hdlahdl.github.io/hdlBlog/tags/japanese/</guid>
       <description></description>
     </item>
     
