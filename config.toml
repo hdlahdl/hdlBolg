@@ -1,5 +1,5 @@
 
-baseURL = "https://hdlahdl.github.io"
+baseURL = "https://hdlahdl.github.io/hdlBolg/"
 languageCode = "en-us"
 defaultContentLanguage = "zh-cn"
 title = "My hugo site"
