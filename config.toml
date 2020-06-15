@@ -24,8 +24,8 @@ publishDir = "docs"
   bio = "Make yourself proud."
   job = "WEB"
   location = "Beijing"
-  #gravatarEmail = "hdlahdl1226@gmail.com"
-  picture = "/hdlBlog/images/1.jpg"
+  gravatarEmail = "hdlahdl1226@gmail.com"
+  picture = "/hdlBlog/images/image.jpg"
 
 [[menu.main]]
   weight = 1
@@ -121,7 +121,7 @@ publishDir = "docs"
     appId = 'f132SRgiYwAFng3AlREC702J-gzGzoHsz'
     appKey = 'X1HAVgJjD1yEkYYS4ik3EQ5L'
     notify = false
-    avatar = 'mm'
+    avatar = 'robohash'
     placeholder = '说点什么吧...'
     visitor = true
 
