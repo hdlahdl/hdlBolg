@@ -16,43 +16,44 @@ thumbnailImage: /hdlBlog/images/image.jpg
 博客搭建
 <!--more-->
 1. Hugo环境安装配置
-* 安装
-    [hugo的官方github仓库](https://github.com/gohugoio/hugo/releases) 下载对应的操作系统版本的Hugo二进制文件
-    下载安装包 以windows64位操作系统为例，下载对应的Windows-64bit.zip
+* 安装  
+    [hugo的官方github仓库](https://github.com/gohugoio/hugo/releases) 下载对应的操作系统版本的Hugo二进制文件  
+    **下载安装包** 以windows64位操作系统为例，下载对应的Windows-64bit.zip  
     ![pic](/images/blog1/1.jpg)
-    解压安装包
+    **解压安装包**  
     ![pic](/images/blog1/2.jpg)
-* 配置环境
-    我们把hugo.exe解压到了D:\hugo下面。所以hugo命令只能在该目录下才能识别。但是我们想要把博客目录建到其他目录下，这就需要配置环境变量。
-    此电脑->右键->点击属性：
+* 配置环境  
+    我们把hugo.exe解压到了D:\hugo下面。所以hugo命令只能在该目录下才能识别。但是我们想要把博客目录建到其他目录下，这就需要配置环境变量。  
+    **此电脑->右键->点击属性：**
     ![pic](/images/blog1/3.jpg)
-    点击高级系统设置：
+    **点击高级系统设置：**  
     这里也可以查看到自己电脑操作系统是多少位
     ![pic](/images/blog1/4.jpg)
-    点击环境变量
+    **点击环境变量**
     ![pic](/images/blog1/5.jpg)
-    系统变量中找到path，再点击编辑
+    **系统变量中找到path，再点击编辑**
     ![pic](/images/blog1/6.jpg)
-    点击新建，填入hugo解压的文件目录，比如我们解压在D:\hugo就填的是D:\hugo
+    **点击新建，填入hugo解压的文件目录**  
+    比如我们解压在D:\hugo就填的是D:\hugo
     ![pic](/images/blog1/7.jpg)
-    配置好后全部点击确定，然后打开cmd命令行程序就可以在任意位置使用hugo命令了。
+    **配置好后全部点击确定**，然后打开cmd命令行程序就可以在任意位置使用hugo命令了。
 2. Hugo新建博客
-* 新建博客
-    win+R键打开运行框，输入cmd打开命令行。
-    输入命令 hugo new site 路径
+* 新建博客  
+    **win+R键打开运行框，输入cmd打开命令行。**  
+    输入命令 **hugo new site 路径**  
     例如：hugo new site E:/hugo/myBlog就在E盘hugo文件夹下新建了一个叫myBlog的hugo站点。
     ![pic](/images/blog1/8.jpg)
     ![pic](/images/blog1/9.jpg)
 3. 配置Hugo主题
-* [hugo官方主题列表](https://themes.gohugo.io/) 挑选自己想要的主题
-    我们这里以Tranquilpeak主题为例来安装主题。github仓库地址[Tranquilpeak主题github仓库](https://themes.gohugo.io/hugo-tranquilpeak-theme/)
-    将主题clone 到 我们的 themes 文件夹下
+* [hugo官方主题列表](https://themes.gohugo.io/) 挑选自己想要的主题  
+    我们这里以Tranquilpeak主题为例来安装主题。github仓库地址[Tranquilpeak主题github仓库](https://themes.gohugo.io/hugo-tranquilpeak-theme/)  
+    **将主题clone 到 我们的 themes 文件夹下** 
     ![pic](/images/blog1/10.jpg)
-    cmd 命令行 1.进入到themes文件下 cd themes 2.将主题clone到themes中 git clone https://github.com/kakawait/hugo-tranquilpeak-theme.git（如果git clone 太慢或者出错 可以直接下载主题压缩包解压到themes文件夹下）
+    cmd 命令行 1.进入到themes文件下 **cd themes** 2.将主题clone到themes中 **git clone https://github.com/kakawait/hugo-tranquilpeak-theme.git**（如果git clone 太慢或者出错 可以直接下载主题压缩包解压到themes文件夹下）
     ![pic](/images/blog1/11.jpg)   
-* 配置主题
-    找到Tranquilpeak主题下的myBlog\themes\hugo-tranquilpeak-theme\exampleSite\config.toml
-    ![pic](/images/blog1/12.jpg)
+* 配置主题  
+    **找到Tranquilpeak主题下的myBlog\themes\hugo-tranquilpeak-theme\exampleSite\config.toml**
+    ![pic](/images/blog1/12.jpg)  
     复制其内容到根目录下的myBlog\config.toml中，接着修改根目录下的配置文件
 
    ```
@@ -194,23 +195,23 @@ thumbnailImage: /hdlBlog/images/image.jpg
         [params.footer]
           copyright = "<a href=\"https://github.com/xxx\">xxx</a>"
    ```
-    这只是必要的一些配置 也可以详细看一下主题文档 都有介绍 
+    这只是必要的一些配置 也可以详细看一下主题文档 都有介绍  
     目前评论系统可以先放一下 后面再配置
 
-* 创建页面 
-    创建页面 cmd命令行 hugo new first.md
+* 创建页面  
+    创建页面 cmd命令行 **hugo new first.md**
     ![pic](/images/blog1/13.jpg)
     可以看到我们新建的页面到了 content 文件夹下
     ![pic](/images/blog1/14.jpg)
-    可以对 first.md 中内容进行修改 根据myBlog\themes\hugo-tranquilpeak-theme\exampleSite\content\post 文件下的md文件修改 
+    可以对 first.md 中内容进行修改  根据myBlog\themes\hugo-tranquilpeak-theme\exampleSite\content\post 文件下的md文件修改  
     这里用的是Markdown语法 大家可以看看 [markdown 语法教程](https://www.jianshu.com/p/191d1e21f7ed/)  
-    我们也可以在这里复制几篇到我们myBlog\content\post 文件夹下看看页面效果
+    我们也可以在这里复制几篇到我们myBlog\content\post 文件夹下看看页面效果  
     （post文件夹是我仿照主题例子content文件下目录新建的）
 
-* 预览主题页面
-     cmd命令行 生成docs文件夹：hugo --theme=主题名称 --baseUrl="git路径=myBlog\config.toml中的baseUrl（部署到git上页面要用到）" --buildDrafts 
-     例如我们的项目：hugo --theme=hugo-tranquilpeak-theme --baseUrl="config.toml中的baseUrl" --buildDrafts
-     根目录下 执行 hugo serve
+* 预览主题页面  
+     cmd命令行 生成docs文件夹：**hugo --theme=主题名称 --baseUrl="git路径=myBlog\config.toml中的baseUrl（部署到git上页面要用到）" --buildDrafts**  
+     例如我们的项目：hugo --theme=hugo-tranquilpeak-theme --baseUrl="config.toml中的baseUrl" --buildDrafts  
+     根目录下 执行 **hugo serve**
      ![pic](/images/blog1/15.jpg)
      浏览器打开网址就可以看到博客啦！
 
