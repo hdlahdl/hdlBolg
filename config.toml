@@ -125,6 +125,9 @@ publishDir = "docs"
     placeholder = '说点什么吧...'
     visitor = true
 
+ [params.footer]
+    copyright = "<a href=\"https://github.com/hdlahdl\">hdl</a>"
+
   # Customize link of author avatar in sidebar
   # [params.sidebar.profile]
   #   url = "/#about"
